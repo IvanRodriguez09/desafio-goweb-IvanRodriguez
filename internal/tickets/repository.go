@@ -4,6 +4,7 @@ import (
 	"context"
 	"fmt"
 
+	"github.com/IvanRodriguez09/desafio-goweb-IvanRodriguez/internal/domain"
 )
 
 type Repository interface {
